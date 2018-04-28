@@ -67,9 +67,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "zoltan.j.paldi@gmail.com"
+#  email: "yourname@gmail.com"
   github: zpaldi
-  twitter: zpaldi
+  twitter: zoltan_paldi
   linkedin: zoltanpaldi
 #  reddit: yourname
 #  google-plus: +DeanAttali
