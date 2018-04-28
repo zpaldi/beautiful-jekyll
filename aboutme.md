@@ -4,7 +4,7 @@ title: About me
 subtitle: Some details about me
 ---
 
-My name is *Zoltan Paldi*, and this is my weblog about various technical subjects and the occasional personal topic.
+My name is **Zoltan Paldi**, and this is my weblog about various technical subjects and the occasional personal topic.
 
 ## Personal Information
 
